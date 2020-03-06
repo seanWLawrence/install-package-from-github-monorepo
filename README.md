@@ -1,3 +1,6 @@
+> 🛑 This package has not been published yet. You can clone this repo and use it
+> now, but the `npx` script in the "Usage" section won't work yet.
+
 # install-package-from-github-monorepo
 
 Simple CLI to install packages from a monorepo hosted on GitHub. 
